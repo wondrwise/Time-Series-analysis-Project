@@ -21,7 +21,7 @@ from sklearn.metrics import mean_squared_error
 
 # Load Dataset
 
-df = pd.read_csv("C:/Users/c23116383/OneDrive - Cardiff University/Desktop/Timeseries/coursework_data.csv")
+df = pd.read_csv("C:/Users/edwar/Desktop/working/Insuarance Project/Time series/Data/Wales Ambulance Daily Runs.csv")
 
 df.head()
 
